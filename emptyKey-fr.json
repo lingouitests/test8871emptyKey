@@ -1,0 +1,5 @@
+{
+   "localTax": "Local Tax {$required}",
+    "vatRate": "VAT Rate {$required}",
+    "alternateTaxRate": "Alternate Tax Rate {$required}"
+}
