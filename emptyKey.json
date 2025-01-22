@@ -1,0 +1,12 @@
+{
+   "localTax": "Local Tax {$required}",
+    "localTaxIndicator": "Local Tax Indicator {$required}",
+    "orderLocalTaxIndicator": {
+        "0": "Local sales tax not included",
+        "1": "Local sales tax included",
+        "2": "Tax exempt order",
+        " ": ""
+    },
+    "vatRate": "VAT Rate {$required}",
+    "alternateTaxRate": "Alternate Tax Rate {$required}"
+}
